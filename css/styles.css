@@ -1,0 +1,30 @@
+  body {
+    background-color: #EEEEEE;
+  }
+  hr {
+
+    border-style: none;
+    border-top-style: dotted;
+    height: 0px;
+    width: 5%;
+    border-color: #476072;
+    border-width: 5px;
+  }
+  h1{
+    color: #334257;
+  }
+  h3{
+    color: #476072;
+  }
+  p{
+    color: #334257;
+  }
+  table{
+    color: #334257;
+  }
+  ui{
+    color: #334257;
+  }
+  ol{
+    color: #334257;
+  }
