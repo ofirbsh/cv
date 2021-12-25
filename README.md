@@ -1,2 +1,2 @@
-can be opened by 
+published at
 https://ofirbsh.github.io/cv/
